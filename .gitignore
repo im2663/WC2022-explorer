@@ -1,0 +1,12 @@
+# Node / frontend
+node_modules/
+dist/
+*.local
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor/OS
+.DS_Store
+.vscode/
